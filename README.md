@@ -37,4 +37,4 @@ Los ejercicios están organizados por categorías según la estructura de datos 
 * **Estructuras:** `Array` nativo, `ArrayList`, `LinkedList`
 
 ---
-   git clone [https://github.com/TU_USUARIO/APE-06-Arreglos-y-Listas.git](https://github.com/TU_USUARIO/APE-06-Arreglos-y-Listas.git)
+
