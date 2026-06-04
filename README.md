@@ -37,9 +37,4 @@ Los ejercicios están organizados por categorías según la estructura de datos 
 * **Estructuras:** `Array` nativo, `ArrayList`, `LinkedList`
 
 ---
-
-## 📂 Cómo Ejecutar el Proyecto
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
    git clone [https://github.com/TU_USUARIO/APE-06-Arreglos-y-Listas.git](https://github.com/TU_USUARIO/APE-06-Arreglos-y-Listas.git)
